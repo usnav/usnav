@@ -5,13 +5,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=usnav" alt="usnav" /></a> </p>
 
-- 🔭 I’m currently working on **Advanced React**
+- 🔭 I’m currently working on **Applied Computer Science**
 
-- 🌱 I’m currently learning **Advanced React**
+- 🌱 I’m currently learning **Applied Computer Science**
 
-- 👯 I’m looking to collaborate on **Advanced React**
+- 👯 I’m looking to collaborate on **Applied Computer Science**
 
-- 🤝 I’m looking for help with **Building Restful APIs**
+- 🤝 I’m looking for help with **explaining complex technical concepts to non-technical stakeholders**
 
 - 👨‍💻 All of my projects are available at [gibhub.com/usnav](gibhub.com/usnav)
 
