@@ -5,17 +5,17 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=usnav" alt="usnav" /></a> </p>
 
-- 🔭 I’m currently working on **Applied Computer Science**
+- 🔭 I’m currently working on **Real Time Projects**
 
-- 🌱 I’m currently learning **Applied Computer Science**
+- 🌱 I’m currently learning **To Advance My Skills as Web developer**
 
-- 👯 I’m looking to collaborate on **Applied Computer Science**
+- 👯 I’m looking to collaborate on **Auth0 and Testing**
 
 - 🤝 I’m looking for help with **explaining complex technical concepts to non-technical stakeholders**
 
 - 👨‍💻 All of my projects are available at [gibhub.com/usnav](gibhub.com/usnav)
 
-- 💬 Ask me about **Javascript, React, CSS**
+- 💬 Ask me about **Javascript, React, CSS, Redux, HTML, you name it!**
 
 - 📫 How to reach me **usna.rafiqzadah@gmail.com**
 
