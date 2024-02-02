@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=usnav" alt="usnav" /></a> </p>
 
-- 🔭 I’m currently working on **Real Time Projects**
+- 🔭 I’m currently working on **Real Time Projects and Learning new tools to stay up-to-date with technology**
 
 - 🌱 I’m currently learning **To Advance My Skills as a Web developer**
 
