@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Real Time Projects**
 
-- 🌱 I’m currently learning **To Advance My Skills as Web developer**
+- 🌱 I’m currently learning **To Advance My Skills as a Web developer**
 
 - 👯 I’m looking to collaborate on **Auth0 and Testing**
 
