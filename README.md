@@ -15,7 +15,7 @@
 
 - 👨‍💻 All of my projects are available at [gibhub.com/usnav](gibhub.com/usnav)
 
-- 💬 Ask me about **Javascript, React, CSS, Redux, HTML, you name it!**
+- 💬 Ask me about **Javascript, React, CSS, Redux, HTML, and more!**
 
 - 📫 How to reach me **usna.rafiqzadah@gmail.com**
 
