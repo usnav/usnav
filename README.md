@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **usna.rafiqzadah@gmail.com**
 
-- ⚡ Fun fact **I adapt quickly to any work environment and/or programs**
+- ⚡ Fun fact **I adapt quickly to any work environment and/or programs and im a quick learner**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
