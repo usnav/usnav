@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Real Time Projects and Learning new tools to stay up-to-date with technology**
 
-- 🌱 I’m currently learning **To Advance my skills as a Web Developer and Looking for a Full time position with a Company!**
+- 🌱 I’m currently learning **To Advance my skills as a Web Developer and Looking for a long-term Full time position with a Company!**
 
 - 👯 I’m looking to collaborate on **Auth0 and Testing**
 
