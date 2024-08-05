@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **To Advance my skills as a Web Developer and Looking for a Full time position with a Company!**
 
-- 👯 I’m looking to collaborate on **Auth0 and Testing**
+- 👯 I’m looking to collaborate on **Auth0 and Test**
 
 - 🤝 I’m looking for help with **Explaining complex technical concepts to non-technical stakeholders**
 
