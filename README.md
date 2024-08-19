@@ -21,7 +21,7 @@
 
 - ⚡ Fun fact **I adapt quickly to any work environment and/or programs and I'm a quick learner**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me :</h3>
 <p align="left">
 <a href="https://fb.com/usna.rafiqzadah@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="usna.rafiqzadah@gmail.com" height="30" width="40" /></a>
 <a href="https://instagram.com/usnarafiqzadah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="usnarafiqzadah" height="30" width="40" /></a>
