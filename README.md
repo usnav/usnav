@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Usna Rafiqzadah</h1>
+ <h1 align="center">Hi 👋, I'm Usna Rafiqzadah</h1>
 <h3 align="center">Full Stack Web Developer / Software Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=usnav&label=Profile%20views&color=0e75b6&style=flat" alt="usnav" /> </p>
@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **To Advance my skills as a Web Developer and looking for a long-term Full time position with a Company!**
 
-- 👯 I’m looking to collaborate on **New projects**
+- 👯 I’m looking to collaborate on **New Projects**
 
 - 🤝 I’m looking for help with **Explaining complex technical concepts to non-technical stakeholders.**
 
