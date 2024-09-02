@@ -13,7 +13,7 @@
 
 - 🤝 I’m looking for help with **Explaining complex technical concepts to non-technical stakeholders.**
 
-- 👨‍💻 All of my projects are available at [gibhub.com/usnav](gibhub.com/usnav)
+- 👨‍💻 All of my projects are available at [github.com/usnav](gibhub.com/usnav)
 
 - 💬 Ask me about **Javascript, React, CSS, Redux, HTML, REST APIs, Express, and so much more!**
 
