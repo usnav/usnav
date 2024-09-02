@@ -15,7 +15,7 @@
 
 - 👨‍💻 All of my projects are available at [github.com/usnav](github.com/usnav)
 
-- 💬 Ask me about **Javascript, React, CSS, Redux, HTML, REST APIs, Express, and so much more!**
+- 💬 Ask me about **Javascript, React, CSS, Redux, HTML, REST APIs, Express, and much more!**
 
 - 📫 How to reach me **raf.usna1@gmail.com**
 
