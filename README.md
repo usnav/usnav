@@ -17,7 +17,7 @@
 
 - 💬 Ask me about **Javascript, React, CSS, Redux, HTML, REST APIs, Express, and so much more!**
 
-- 📫 How to reach me **usna.rafiqzadah@gmail.com**
+- 📫 How to reach me **raf.usna1@gmail.com**
 
 - ⚡ Fun fact **I adapt quickly to any work environment and/or programs and I'm a quick learner**
 
